@@ -15,7 +15,7 @@
                     </button>
                     <ul class="dropdown-menu" >
                        
-                        <li><a class="dropdown-item" href="<?= base_url('auth/logout'); ?>" data-toggle="modal"
+                        <li><a class="dropdown-item" href="<?= base_url('fak/feb/logout'); ?>" data-toggle="modal"
                         data-bs-target="#logoutModal">Logout</a></li>
                     </ul>
                 </li>
